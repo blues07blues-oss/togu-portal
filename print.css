@@ -1,0 +1,7 @@
+#header, #navigation, #breadcrumbs, #footer {
+	display: none
+}
+
+div.toolbar {
+	display: none
+}
